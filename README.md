@@ -26,7 +26,7 @@ The validation logic is located in `validation.js` and is triggered on form subm
 - Displays inline error messages.
 - On successful validation, logs form data and shows a success alert.
 
-##  Screenshot (Optional)
+##  Screenshot 
 
 ![Form Screenshot]![Form Validation — Mozilla Firefox 29-05-2025 18_24_34](https://github.com/user-attachments/assets/b0571164-7296-43e2-9522-e44e8634d336)
 
